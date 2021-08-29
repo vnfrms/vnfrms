@@ -16,11 +16,16 @@ Hiện tại, mã nguồn trong kho này chưa được hoàn thiện, và chưa
 	* PostGIS 3.1
 	* ..........
 3. Phần FRMS Sync
-- Thư mục frms-sync dành riêng cho nhóm phát triển
-7. Phần FRMS Desktop
-8. Phần FRMS Mobile
-9. Phần FRMS Share
-10. Phần FRMS Web
-11. Phần FRMS EWS
-12. Phần FRMS QAQC
-13. Phần FRMS Docs
+- Thư mục frms-sync dành riêng cho nhóm phát triển chức năng đồng bộ dữ liệu trong Hệ thống TDDBR.
+- Phần này bao gồm cả phía máy chủ và phía máy khách.
+- Kho chứa này chỉ lưu lại các bước cấu hình, tùy biến, cài đặt, tinh chỉnh, ... mà không lưu toàn bộ mã nguồn của SymmetricDS;
+- Các phiên bản đã tùy biến (phiên bản sản xuất) có thể được quản lý trên Google Drive;
+- Các phần mềm và phiên bản: 
+	* SymmetricDS 3.12.11 (Dựng bản tùy biến (customized) từ mã nguồn).
+4. Phần FRMS Desktop
+5. Phần FRMS Mobile
+6. Phần FRMS Share
+7. Phần FRMS Web
+8. Phần FRMS EWS
+9. Phần FRMS QAQC
+10. Phần FRMS Docs
